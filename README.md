@@ -1,7 +1,6 @@
 # Assign3-ArchitecturePatterns
 Leveraging the MVC design / architecture pattern for the design of a Cash Register interface. 
 
-# Assignment3-Architecture Patterns
 Class: SOFE 3650U
 
 Group Number: Course_Gp 22
