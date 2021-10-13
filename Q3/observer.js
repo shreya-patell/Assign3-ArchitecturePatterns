@@ -37,10 +37,10 @@ namespace Question1.Controllers
 }
 
 
-public class ProductEditor : IObserver<Temperature>
+public class ProductEditor : IObserver<Product>
 {
 	private IDisposable unsubscriber;
-	public virtual void Subscribe(IObservable<Temperature> provider)
+	public virtual void Subscribe(IObservable<Product> provider)
    {
       unsubscriber = provider.Subscribe(this);
    }
