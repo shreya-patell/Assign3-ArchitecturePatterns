@@ -40,7 +40,7 @@ You can easily run the code by following these steps:
 	4. Run the code by clicking the run button on the task bar. 
 ![image](https://user-images.githubusercontent.com/66443183/137057323-ead94492-22c3-43c1-87c0-4ba090a5ae68.png)
 
-# question 2 
+# Question 2 
 The solution to question 2 has been provided under q1 folder itself (where the source code is placed). When clicked on Details button, it directs you to the details of the product. 
 
 # Screenshots
